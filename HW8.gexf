@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-04-28">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="first_name" type="string"></attribute>
+      <attribute id="1" title="last_name" type="string"></attribute>
+      <attribute id="2" title="nickname" type="string"></attribute>
+      <attribute id="3" title="screen_name" type="string"></attribute>
+      <attribute id="4" title="sex" type="integer"></attribute>
+      <attribute id="5" title="photo_50" type="string"></attribute>
+      <attribute id="6" title="relation" type="integer"></attribute>
+      <attribute id="7" title="country" type="integer"></attribute>
+      <attribute id="8" title="city" type="integer"></attribute>
+      <attribute id="9" title="bdate" type="string"></attribute>
+      <attribute id="10" title="timezone" type="integer"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="6679440" label="Алексей Мосолов">
+        <attvalues>
+          <attvalue for="0" value="Алексей"></attvalue>
+          <attvalue for="1" value="Мосолов"></attvalue>
+          <attvalue for="3" value="alexey.mosolov"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c840237/v840237650/7241f/hljY7YiTKlY.jpg"></attvalue>
+          <attvalue for="6" value="1"></attvalue>
+          <attvalue for="7" value="0"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="20.6"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="749.55835" y="104.12895"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="13262873" label="Виктор Кузнецов">
+        <attvalues>
+          <attvalue for="0" value="Виктор"></attvalue>
+          <attvalue for="1" value="Кузнецов"></attvalue>
+          <attvalue for="3" value="v1ctor_kuznetsov"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c623900/v623900673/8ab49/H_t1ZmppH5c.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="23.1"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="21.2"></viz:size>
+        <viz:position x="47.013344" y="-285.85046"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="17838290" label="Андрей Крюков">
+        <attvalues>
+          <attvalue for="0" value="Андрей"></attvalue>
+          <attvalue for="1" value="Крюков"></attvalue>
+          <attvalue for="3" value="id17838290"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c834404/v834404087/4ef42/d4CK1Uyq3kc.jpg"></attvalue>
+          <attvalue for="7" value="0"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.0"></viz:size>
+        <viz:position x="682.8311" y="333.6373"></viz:position>
+        <viz:color r="0" g="199" b="97"></viz:color>
+      </node>
+      <node id="18357671" label="Тимофей Паршенков">
+        <attvalues>
+          <attvalue for="0" value="Тимофей"></attvalue>
+          <attvalue for="1" value="Паршенков"></attvalue>
+          <attvalue for="3" value="id18357671"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c840026/v840026778/43e5e/OQ5JuQ8Cptk.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="9"></attvalue>
+          <attvalue for="8" value="1515864"></attvalue>
+          <attvalue for="9" value="22.5"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="13.2"></viz:size>
+        <viz:position x="330.88373" y="702.26056"></viz:position>
+        <viz:color r="133" g="0" b="64"></viz:color>
+      </node>
+      <node id="30366673" label="Эльвира Наумова">
+        <attvalues>
+          <attvalue for="0" value="Эльвира"></attvalue>
+          <attvalue for="1" value="Наумова"></attvalue>
+          <attvalue for="2" value="ELIS"></attvalue>
+          <attvalue for="3" value="id30366673"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c841028/v841028929/54070/Yh0KVmKfXpw.jpg"></attvalue>
+          <attvalue for="6" value="1"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="14.11.1978"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="14.8"></viz:size>
+        <viz:position x="755.44336" y="-134.00896"></viz:position>
+        <viz:color r="0" g="199" b="97"></viz:color>
+      </node>
+      <node id="32409088" label="Артем Кинарейкин">
+        <attvalues>
+          <attvalue for="0" value="Артем"></attvalue>
+          <attvalue for="1" value="Кинарейкин"></attvalue>
+          <attvalue for="3" value="artem_kinareykin"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c604321/v604321088/20fc/ZVfTL2ldl_Y.jpg"></attvalue>
+          <attvalue for="6" value="1"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="8.5"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="19.2"></viz:size>
+        <viz:position x="496.09326" y="-161.89719"></viz:position>
+        <viz:color r="0" g="230" b="57"></viz:color>
+      </node>
+      <node id="34107474" label="Юлия Петрикова">
+        <attvalues>
+          <attvalue for="0" value="Юлия"></attvalue>
+          <attvalue for="1" value="Петрикова"></attvalue>
+          <attvalue for="3" value="major2505"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c841531/v841531918/65987/079J3GQkSKY.jpg"></attvalue>
+          <attvalue for="6" value="1"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="25.5"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="20.4"></viz:size>
+        <viz:position x="524.7756" y="-555.3204"></viz:position>
+        <viz:color r="211" g="179" b="176"></viz:color>
+      </node>
+      <node id="49533829" label="Аня Окроян">
+        <attvalues>
+          <attvalue for="0" value="Аня"></attvalue>
+          <attvalue for="1" value="Окроян"></attvalue>
+          <attvalue for="3" value="id49533829"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c834102/v834102848/a9660/ENGx04oM7F8.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="2.6.1999"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="21.2"></viz:size>
+        <viz:position x="71.34187" y="-764.87787"></viz:position>
+        <viz:color r="237" g="250" b="0"></viz:color>
+      </node>
+      <node id="50735182" label="Игорь Карпов">
+        <attvalues>
+          <attvalue for="0" value="Игорь"></attvalue>
+          <attvalue for="1" value="Карпов"></attvalue>
+          <attvalue for="3" value="id50735182"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c633222/v633222182/9435/8PaAvl7jJU4.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="23.12"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="22.0"></viz:size>
+        <viz:position x="-173.89467" y="-741.88464"></viz:position>
+        <viz:color r="237" g="250" b="0"></viz:color>
+      </node>
+      <node id="56505040" label="Елизавета Крюкова">
+        <attvalues>
+          <attvalue for="0" value="Елизавета"></attvalue>
+          <attvalue for="1" value="Крюкова"></attvalue>
+          <attvalue for="3" value="liza.kryukova"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c846216/v846216134/2c975/CKSKTjV_HXQ.jpg"></attvalue>
+          <attvalue for="6" value="2"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="9.10.1998"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="18.0"></viz:size>
+        <viz:position x="-160.05396" y="220.75922"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="68348250" label="Евгения Гайдамак">
+        <attvalues>
+          <attvalue for="0" value="Евгения"></attvalue>
+          <attvalue for="1" value="Гайдамак"></attvalue>
+          <attvalue for="3" value="straightenback"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c639918/v639918421/46e6c/hdQf7Id8Ckc.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="25.2"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="16.800001"></viz:size>
+        <viz:position x="-487.96597" y="-174.08734"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="73715066" label="Ася Черных">
+        <attvalues>
+          <attvalue for="0" value="Ася"></attvalue>
+          <attvalue for="1" value="Черных"></attvalue>
+          <attvalue for="3" value="id73715066"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c637517/v637517345/6325e/IPA6HR6luDQ.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="19.9"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="23.2"></viz:size>
+        <viz:position x="-349.758" y="-394.63507"></viz:position>
+        <viz:color r="0" g="199" b="97"></viz:color>
+      </node>
+      <node id="85438845" label="Елизавета Донских">
+        <attvalues>
+          <attvalue for="0" value="Елизавета"></attvalue>
+          <attvalue for="1" value="Донских"></attvalue>
+          <attvalue for="3" value="donskih28"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c834104/v834104313/11fbe3/pdtPbCbUBng.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="28.12"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="19.2"></viz:size>
+        <viz:position x="-759.65515" y="-23.897156"></viz:position>
+        <viz:color r="163" g="230" b="255"></viz:color>
+      </node>
+      <node id="95316678" label="Артём Малыгин">
+        <attvalues>
+          <attvalue for="0" value="Артём"></attvalue>
+          <attvalue for="1" value="Малыгин"></attvalue>
+          <attvalue for="3" value="artemmetra"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c844416/v844416073/22391/gpBIszC-_Ck.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="0.1"></viz:size>
+        <viz:position x="-260.5283" y="469.60638"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="106041855" label="Глеб Шумаков">
+        <attvalues>
+          <attvalue for="0" value="Глеб"></attvalue>
+          <attvalue for="1" value="Шумаков"></attvalue>
+          <attvalue for="3" value="glebshumakov"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://sun1-3.userapi.com/c840726/v840726342/6b694/9sEyS0oLXwI.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="18.12"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="20.8"></viz:size>
+        <viz:position x="-291.82794" y="15.313145"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="140570393" label="Дмитрий Народицкий">
+        <attvalues>
+          <attvalue for="0" value="Дмитрий"></attvalue>
+          <attvalue for="1" value="Народицкий"></attvalue>
+          <attvalue for="3" value="idnaroditskiy"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c830108/v830108565/cf9db/Qg2jzhkWKRk.jpg"></attvalue>
+          <attvalue for="6" value="1"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="29.12"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="19.6"></viz:size>
+        <viz:position x="657.83997" y="-354.6621"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="144802899" label="Полина Мордовина">
+        <attvalues>
+          <attvalue for="0" value="Полина"></attvalue>
+          <attvalue for="1" value="Мордовина"></attvalue>
+          <attvalue for="3" value="polinchikaa"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c846120/v846120256/2636a/9w2xFWG0aTQ.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="30.5"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.0"></viz:size>
+        <viz:position x="340.61353" y="-371.7479"></viz:position>
+        <viz:color r="0" g="199" b="97"></viz:color>
+      </node>
+      <node id="156599091" label="Максим Панкратов">
+        <attvalues>
+          <attvalue for="0" value="Максим"></attvalue>
+          <attvalue for="1" value="Панкратов"></attvalue>
+          <attvalue for="3" value="maximpankratov"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c831109/v831109098/785d8/L-r3tAwBAsg.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="30.4"></viz:size>
+        <viz:position x="-169.39116" y="735.6449"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="157895635" label="Соня Архипова">
+        <attvalues>
+          <attvalue for="0" value="Соня"></attvalue>
+          <attvalue for="1" value="Архипова"></attvalue>
+          <attvalue for="3" value="arkhipova.sonya"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://vk.com/images/camera_50.png"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="26.9"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="18.400002"></viz:size>
+        <viz:position x="-25.90584" y="515.4657"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="159636259" label="Женя Любичев">
+        <attvalues>
+          <attvalue for="0" value="Женя"></attvalue>
+          <attvalue for="1" value="Любичев"></attvalue>
+          <attvalue for="3" value="koner2000"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c630616/v630616259/2f6a4/hPJ3-LbsHSk.jpg"></attvalue>
+          <attvalue for="6" value="7"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="15.200001"></viz:size>
+        <viz:position x="236.12029" y="478.77423"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="167558523" label="Алиса Опыхтина">
+        <attvalues>
+          <attvalue for="0" value="Алиса"></attvalue>
+          <attvalue for="1" value="Опыхтина"></attvalue>
+          <attvalue for="3" value="aliiiisaa"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c830109/v830109929/263d0/jpcQw6RCxMo.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="19.2.1999"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.2"></viz:size>
+        <viz:position x="-607.59814" y="462.78683"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="175346900" label="Stepan Polukeev">
+        <attvalues>
+          <attvalue for="0" value="Stepan"></attvalue>
+          <attvalue for="1" value="Polukeev"></attvalue>
+          <attvalue for="3" value="steupon"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c845324/v845324121/324d9/5n5ai70qOdg.jpg"></attvalue>
+          <attvalue for="6" value="5"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="11.12.1905"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-4.9270334" y="-6.8765717"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="176554321" label="Мария Киселёва">
+        <attvalues>
+          <attvalue for="0" value="Мария"></attvalue>
+          <attvalue for="1" value="Киселёва"></attvalue>
+          <attvalue for="3" value="mary_holmes"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c639825/v639825321/31af6/9Lud1PDVURA.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="2.3"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="413.58463" y="311.16913"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="182319835" label="Максим Шадэ">
+        <attvalues>
+          <attvalue for="0" value="Максим"></attvalue>
+          <attvalue for="1" value="Шадэ"></attvalue>
+          <attvalue for="3" value="mshade0"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c836425/v836425691/64bd7/LtKcnCT-nqo.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="8.2.2000"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="22.8"></viz:size>
+        <viz:position x="487.144" y="88.55619"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="199813736" label="Анастасия Лазаренко">
+        <attvalues>
+          <attvalue for="0" value="Анастасия"></attvalue>
+          <attvalue for="1" value="Лазаренко"></attvalue>
+          <attvalue for="3" value="stasya__14"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c846021/v846021336/21ac8/eeCVpqp1Zg0.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="14.11.1998"></attvalue>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="14.0"></viz:size>
+        <viz:position x="323.40405" y="-691.9688"></viz:position>
+        <viz:color r="0" g="199" b="97"></viz:color>
+      </node>
+      <node id="211434586" label="Роман Прошин">
+        <attvalues>
+          <attvalue for="0" value="Роман"></attvalue>
+          <attvalue for="1" value="Прошин"></attvalue>
+          <attvalue for="3" value="id211434586"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c639725/v639725827/2fc9c/8gBk0P_JcW0.jpg"></attvalue>
+          <attvalue for="6" value="2"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="12.10.2000"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="15.6"></viz:size>
+        <viz:position x="79.75224" y="280.179"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="212101225" label="Валерия Варцаба">
+        <attvalues>
+          <attvalue for="0" value="Валерия"></attvalue>
+          <attvalue for="1" value="Варцаба"></attvalue>
+          <attvalue for="3" value="id212101225"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c841138/v841138039/7683a/E7MnncvMQuc.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="14.8"></viz:size>
+        <viz:position x="-593.9988" y="-478.42615"></viz:position>
+        <viz:color r="247" g="199" b="255"></viz:color>
+      </node>
+      <node id="220446482" label="Калентина Виселева">
+        <attvalues>
+          <attvalue for="0" value="Калентина"></attvalue>
+          <attvalue for="1" value="Виселева"></attvalue>
+          <attvalue for="3" value="id220446482"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://sun1-3.userapi.com/c840735/v840735669/72ebb/XHgLnWvhSPw.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="22.2"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="18.8"></viz:size>
+        <viz:position x="243.59727" y="-127.84286"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="230597482" label="Sasha Kit">
+        <attvalues>
+          <attvalue for="0" value="Sasha"></attvalue>
+          <attvalue for="1" value="Kit"></attvalue>
+          <attvalue for="3" value="id230597482"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c845018/v845018934/8fcf/cViJ4WSSmzg.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="26.9.2000"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="20.8"></viz:size>
+        <viz:position x="-522.8385" y="94.96333"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="247966016" label="Анастасия Мельник">
+        <attvalues>
+          <attvalue for="0" value="Анастасия"></attvalue>
+          <attvalue for="1" value="Мельник"></attvalue>
+          <attvalue for="3" value="heymish"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c639322/v639322013/5ef37/FSIpNQjgjXY.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="23.6"></viz:size>
+        <viz:position x="-717.91364" y="-266.132"></viz:position>
+        <viz:color r="255" g="252" b="189"></viz:color>
+      </node>
+      <node id="289362956" label="Никита Саргсян">
+        <attvalues>
+          <attvalue for="0" value="Никита"></attvalue>
+          <attvalue for="1" value="Саргсян"></attvalue>
+          <attvalue for="3" value="nwick"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c824411/v824411665/faeb0/ZXZDWThQkXw.jpg"></attvalue>
+          <attvalue for="7" value="0"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="21.3"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-422.4504" y="302.2913"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+      <node id="294199627" label="Misha Rychkov">
+        <attvalues>
+          <attvalue for="0" value="Misha"></attvalue>
+          <attvalue for="1" value="Rychkov"></attvalue>
+          <attvalue for="3" value="id294199627"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://vk.com/images/camera_50.png"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="6.11.1998"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="22.8"></viz:size>
+        <viz:position x="133.85933" y="-522.10913"></viz:position>
+        <viz:color r="237" g="250" b="0"></viz:color>
+      </node>
+      <node id="307417427" label="Евгения Елманова">
+        <attvalues>
+          <attvalue for="0" value="Евгения"></attvalue>
+          <attvalue for="1" value="Елманова"></attvalue>
+          <attvalue for="3" value="elmanchik22"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c841629/v841629123/73a09/EZkswRhGVuo.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="22.1.2002"></attvalue>
+          <attvalue for="modularity_class" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-736.83844" y="236.54427"></viz:position>
+        <viz:color r="255" g="217" b="199"></viz:color>
+      </node>
+      <node id="321648738" label="Ваня Феногенов">
+        <attvalues>
+          <attvalue for="0" value="Ваня"></attvalue>
+          <attvalue for="1" value="Феногенов"></attvalue>
+          <attvalue for="3" value="id321648738"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://vk.com/images/camera_50.png"></attvalue>
+          <attvalue for="7" value="0"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="14.5.2000"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="17.2"></viz:size>
+        <viz:position x="234.96909" y="109.836914"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="324523704" label="Дарья Вишневская">
+        <attvalues>
+          <attvalue for="0" value="Дарья"></attvalue>
+          <attvalue for="1" value="Вишневская"></attvalue>
+          <attvalue for="3" value="id324523704"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c824701/v824701388/d175e/DngYjJPmIOI.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="28.5"></attvalue>
+          <attvalue for="modularity_class" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="18.0"></viz:size>
+        <viz:position x="-122.668205" y="-498.09372"></viz:position>
+        <viz:color r="255" g="136" b="5"></viz:color>
+      </node>
+      <node id="343339753" label="Гриша Борисов">
+        <attvalues>
+          <attvalue for="0" value="Гриша"></attvalue>
+          <attvalue for="1" value="Борисов"></attvalue>
+          <attvalue for="3" value="id343339753"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c837225/v837225169/4d69d/R9ObU0-1nEI.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="29.7"></attvalue>
+          <attvalue for="modularity_class" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="17.6"></viz:size>
+        <viz:position x="-404.26157" y="-649.73285"></viz:position>
+        <viz:color r="0" g="189" b="177"></viz:color>
+      </node>
+      <node id="385952416" label="Женя Кирьянова">
+        <attvalues>
+          <attvalue for="0" value="Женя"></attvalue>
+          <attvalue for="1" value="Кирьянова"></attvalue>
+          <attvalue for="3" value="id385952416"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://sun1-4.userapi.com/c840526/v840526129/6df11/P5cYMW-ET8I.jpg"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="9" value="25.1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="21.6"></viz:size>
+        <viz:position x="534.1489" y="541.67004"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="391537441" label="Иван Стешаков">
+        <attvalues>
+          <attvalue for="0" value="Иван"></attvalue>
+          <attvalue for="1" value="Стешаков"></attvalue>
+          <attvalue for="3" value="1skids"></attvalue>
+          <attvalue for="4" value="2"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c846520/v846520565/2ef52/VmDSfkCfKsY.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="1"></attvalue>
+          <attvalue for="modularity_class" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="16.4"></viz:size>
+        <viz:position x="84.1504" y="756.66876"></viz:position>
+        <viz:color r="0" g="96" b="224"></viz:color>
+      </node>
+      <node id="412274556" label="Соня Стукалова">
+        <attvalues>
+          <attvalue for="0" value="Соня"></attvalue>
+          <attvalue for="1" value="Стукалова"></attvalue>
+          <attvalue for="3" value="stukalova1212"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c824411/v824411929/4206/RIXtSicYC30.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="1"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="12.5"></attvalue>
+          <attvalue for="modularity_class" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="20.8"></viz:size>
+        <viz:position x="-190.08975" y="-208.70505"></viz:position>
+        <viz:color r="102" g="255" b="31"></viz:color>
+      </node>
+      <node id="423926126" label="Liliya Tarsaidze">
+        <attvalues>
+          <attvalue for="0" value="Liliya"></attvalue>
+          <attvalue for="1" value="Tarsaidze"></attvalue>
+          <attvalue for="3" value="fodeumaxr"></attvalue>
+          <attvalue for="4" value="1"></attvalue>
+          <attvalue for="5" value="https://pp.userapi.com/c845523/v845523023/3eb93/I-llyaqgpb0.jpg"></attvalue>
+          <attvalue for="6" value="0"></attvalue>
+          <attvalue for="7" value="0"></attvalue>
+          <attvalue for="8" value="0"></attvalue>
+          <attvalue for="9" value="28.11.1995"></attvalue>
+          <attvalue for="modularity_class" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="19.6"></viz:size>
+        <viz:position x="-424.55823" y="652.4991"></viz:position>
+        <viz:color r="255" g="56" b="86"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1" source="6679440" target="140570393"></edge>
+      <edge id="2" source="6679440" target="176554321"></edge>
+      <edge id="3" source="13262873" target="324523704"></edge>
+      <edge id="4" source="17838290" target="144802899"></edge>
+      <edge id="5" source="30366673" target="144802899"></edge>
+      <edge id="6" source="49533829" target="50735182"></edge>
+      <edge id="7" source="49533829" target="294199627"></edge>
+      <edge id="8" source="50735182" target="49533829"></edge>
+      <edge id="9" source="50735182" target="294199627"></edge>
+      <edge id="10" source="56505040" target="95316678"></edge>
+      <edge id="11" source="56505040" target="230597482"></edge>
+      <edge id="12" source="56505040" target="289362956"></edge>
+      <edge id="13" source="68348250" target="230597482"></edge>
+      <edge id="14" source="73715066" target="144802899"></edge>
+      <edge id="15" source="95316678" target="56505040"></edge>
+      <edge id="16" source="95316678" target="106041855"></edge>
+      <edge id="17" source="95316678" target="157895635"></edge>
+      <edge id="18" source="95316678" target="167558523"></edge>
+      <edge id="19" source="95316678" target="230597482"></edge>
+      <edge id="20" source="95316678" target="289362956"></edge>
+      <edge id="21" source="106041855" target="95316678"></edge>
+      <edge id="22" source="106041855" target="167558523"></edge>
+      <edge id="23" source="106041855" target="230597482"></edge>
+      <edge id="24" source="106041855" target="289362956"></edge>
+      <edge id="25" source="140570393" target="6679440"></edge>
+      <edge id="26" source="140570393" target="176554321"></edge>
+      <edge id="27" source="140570393" target="182319835"></edge>
+      <edge id="28" source="140570393" target="220446482"></edge>
+      <edge id="29" source="144802899" target="17838290"></edge>
+      <edge id="30" source="144802899" target="30366673"></edge>
+      <edge id="31" source="144802899" target="73715066"></edge>
+      <edge id="32" source="144802899" target="199813736"></edge>
+      <edge id="33" source="156599091" target="182319835"></edge>
+      <edge id="34" source="156599091" target="230597482"></edge>
+      <edge id="35" source="157895635" target="95316678"></edge>
+      <edge id="36" source="157895635" target="230597482"></edge>
+      <edge id="37" source="157895635" target="289362956"></edge>
+      <edge id="38" source="159636259" target="182319835"></edge>
+      <edge id="39" source="159636259" target="211434586"></edge>
+      <edge id="40" source="159636259" target="220446482"></edge>
+      <edge id="41" source="159636259" target="321648738"></edge>
+      <edge id="42" source="159636259" target="385952416"></edge>
+      <edge id="43" source="167558523" target="95316678"></edge>
+      <edge id="44" source="167558523" target="106041855"></edge>
+      <edge id="45" source="167558523" target="230597482"></edge>
+      <edge id="46" source="167558523" target="289362956"></edge>
+      <edge id="47" source="167558523" target="423926126"></edge>
+      <edge id="48" source="175346900" target="176554321"></edge>
+      <edge id="49" source="175346900" target="182319835"></edge>
+      <edge id="50" source="175346900" target="211434586"></edge>
+      <edge id="51" source="175346900" target="220446482"></edge>
+      <edge id="52" source="175346900" target="321648738"></edge>
+      <edge id="53" source="176554321" target="6679440"></edge>
+      <edge id="54" source="176554321" target="140570393"></edge>
+      <edge id="55" source="176554321" target="175346900"></edge>
+      <edge id="56" source="176554321" target="182319835"></edge>
+      <edge id="57" source="176554321" target="211434586"></edge>
+      <edge id="58" source="176554321" target="220446482"></edge>
+      <edge id="59" source="176554321" target="321648738"></edge>
+      <edge id="60" source="176554321" target="385952416"></edge>
+      <edge id="61" source="176554321" target="391537441"></edge>
+      <edge id="62" source="182319835" target="140570393"></edge>
+      <edge id="63" source="182319835" target="156599091"></edge>
+      <edge id="64" source="182319835" target="159636259"></edge>
+      <edge id="65" source="182319835" target="175346900"></edge>
+      <edge id="66" source="182319835" target="176554321"></edge>
+      <edge id="67" source="182319835" target="211434586"></edge>
+      <edge id="68" source="182319835" target="220446482"></edge>
+      <edge id="69" source="182319835" target="321648738"></edge>
+      <edge id="70" source="182319835" target="385952416"></edge>
+      <edge id="71" source="199813736" target="144802899"></edge>
+      <edge id="72" source="211434586" target="175346900"></edge>
+      <edge id="73" source="211434586" target="176554321"></edge>
+      <edge id="74" source="211434586" target="182319835"></edge>
+      <edge id="75" source="211434586" target="220446482"></edge>
+      <edge id="76" source="211434586" target="321648738"></edge>
+      <edge id="77" source="211434586" target="385952416"></edge>
+      <edge id="78" source="220446482" target="140570393"></edge>
+      <edge id="79" source="220446482" target="159636259"></edge>
+      <edge id="80" source="220446482" target="175346900"></edge>
+      <edge id="81" source="220446482" target="176554321"></edge>
+      <edge id="82" source="220446482" target="182319835"></edge>
+      <edge id="83" source="220446482" target="211434586"></edge>
+      <edge id="84" source="220446482" target="321648738"></edge>
+      <edge id="85" source="230597482" target="56505040"></edge>
+      <edge id="86" source="230597482" target="68348250"></edge>
+      <edge id="87" source="230597482" target="95316678"></edge>
+      <edge id="88" source="230597482" target="106041855"></edge>
+      <edge id="89" source="230597482" target="156599091"></edge>
+      <edge id="90" source="230597482" target="157895635"></edge>
+      <edge id="91" source="230597482" target="167558523"></edge>
+      <edge id="92" source="230597482" target="289362956"></edge>
+      <edge id="93" source="230597482" target="423926126"></edge>
+      <edge id="94" source="289362956" target="95316678"></edge>
+      <edge id="95" source="289362956" target="106041855"></edge>
+      <edge id="96" source="289362956" target="157895635"></edge>
+      <edge id="97" source="289362956" target="167558523"></edge>
+      <edge id="98" source="289362956" target="230597482"></edge>
+      <edge id="99" source="294199627" target="49533829"></edge>
+      <edge id="100" source="294199627" target="50735182"></edge>
+      <edge id="101" source="321648738" target="159636259"></edge>
+      <edge id="102" source="321648738" target="175346900"></edge>
+      <edge id="103" source="321648738" target="176554321"></edge>
+      <edge id="104" source="321648738" target="182319835"></edge>
+      <edge id="105" source="321648738" target="211434586"></edge>
+      <edge id="106" source="321648738" target="220446482"></edge>
+      <edge id="107" source="324523704" target="13262873"></edge>
+      <edge id="108" source="385952416" target="159636259"></edge>
+      <edge id="109" source="385952416" target="176554321"></edge>
+      <edge id="110" source="385952416" target="182319835"></edge>
+      <edge id="111" source="385952416" target="211434586"></edge>
+      <edge id="112" source="391537441" target="176554321"></edge>
+    </edges>
+  </graph>
+</gexf>
